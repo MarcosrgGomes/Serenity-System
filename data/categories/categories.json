@@ -1,0 +1,61 @@
+[
+    {
+        "id": "ysmec-68ec2b-01",
+        "name": "Manutenção de Moldes de Pneus",
+        "description": "Serviços especializados em recuperação e manutenção de moldes para pneus Truck e Agro.",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-01-01",
+        "name": "Reforma e Recuperação",
+        "description": "Restauração completa de moldes danificados.",
+        "parent_id": "ysmec-68ec2b-01",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-01-02",
+        "name": "Limpeza e Jateamento",
+        "description": "Limpeza técnica para remoção de resíduos e manutenção preventiva.",
+        "parent_id": "ysmec-68ec2b-01",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-01-03",
+        "name": "Gravações e Sistemas de Respiro",
+        "description": "Ajustes em gravações (daters/logos) e otimização dos sistemas de ventilação.",
+        "parent_id": "ysmec-68ec2b-01",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-02",
+        "name": "Serralheria Industrial",
+        "description": "Serviços de fabricação, montagem e manutenção de estruturas metálicas industriais.",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-02-01",
+        "name": "Estruturas e Bases",
+        "description": "Fabricação de bases, suportes, plataformas e mezaninos.",
+        "parent_id": "ysmec-68ec2b-02",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-02-02",
+        "name": "Dispositivos e Máquinas",
+        "description": "Fabricação de dispositivos, proteções e reparos em maquinário industrial.",
+        "parent_id": "ysmec-68ec2b-02",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-03",
+        "name": "Peças e Componentes",
+        "description": "Venda de peças de reposição e componentes usinados para a linha Truck e Agro.",
+        "status": "active"
+    },
+    {
+        "id": "ysmec-68ec2b-04",
+        "name": "Diferenciais Ysmec",
+        "description": "Informações institucionais sobre a empresa, certificações e compromisso com qualidade.",
+        "status": "active"
+    }
+]

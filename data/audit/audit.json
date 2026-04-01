@@ -1,0 +1,87 @@
+[
+    {
+        "id": "69cd876bb99199.55279555",
+        "user_id": 0,
+        "user_name": "Visitante",
+        "action": "login_failed",
+        "details": {
+            "email": "admin@serenity.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:00:27"
+    },
+    {
+        "id": "69cd8a9bb94810.39803145",
+        "user_id": 0,
+        "user_name": "Visitante",
+        "action": "login_failed",
+        "details": {
+            "email": "admin@serenity.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:14:03"
+    },
+    {
+        "id": "69cd8ab4161021.35985679",
+        "user_id": 0,
+        "user_name": "Visitante",
+        "action": "user_registered",
+        "details": {
+            "user_id": "2",
+            "email": "94technologies@gmail.com"
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:14:28"
+    },
+    {
+        "id": "69cd8aba004d49.07127573",
+        "user_id": 2,
+        "user_name": "Marcos Gomes",
+        "action": "login_success",
+        "details": {
+            "user_id": 2
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:14:34"
+    },
+    {
+        "id": "69cd8abf1328d4.18745077",
+        "user_id": 2,
+        "user_name": "Marcos Gomes",
+        "action": "logout",
+        "details": {
+            "user_id": 2
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:14:39"
+    },
+    {
+        "id": "69cd8c56b4ec70.68218241",
+        "user_id": 2,
+        "user_name": "Marcos Gomes",
+        "action": "login_success",
+        "details": {
+            "user_id": 2
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:21:26"
+    },
+    {
+        "id": "69cd8f47cde826.42858798",
+        "user_id": 2,
+        "user_name": "Marcos Gomes",
+        "action": "logout",
+        "details": {
+            "user_id": 2
+        },
+        "ip": "::1",
+        "user_agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/144.0.0.0 Safari\/537.36 OPR\/128.0.0.0",
+        "timestamp": "2026-04-01 18:33:59"
+    }
+]
