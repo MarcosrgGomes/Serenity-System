@@ -269,4 +269,4 @@ style:    formatação, sem lógica
 
 ## 📄 Licença
 
-MIT — veja o arquivo `LICENSE` para detalhes.
+Marcos Gomes — veja o arquivo `LICENSE` para detalhes.
